@@ -22,8 +22,8 @@
 
 Team Name: Cybros
 
-* [Rahul Gupta](https://github.com/PavanK025)
-* [Karri Neelakanta Pavan Kumar](https://github.com/rahul24rg)
+* [Rahul Gupta](https://github.com/rahul24rg)
+* [Karri Neelakanta Pavan Kumar](https://github.com/PavanK025)
 
 
 ### Made at:
