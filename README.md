@@ -10,7 +10,12 @@
    So,Team Cybros has come up with one such solution to shop from the comfort of home in the form of Emart.</p>
   
 ## Table of Contents:
-   
+   * Login/Logout
+   * Signup
+   * Maintaining cart
+   * Placing order
+   * Password hashing
+
 
 ## Technology Stack:
   1) Python
